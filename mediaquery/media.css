@@ -1,0 +1,29 @@
+ @media (min-width: 768px ) and (max-width: 992px) {
+
+    .cabecalho {
+     background-image: url(../img/lanches_mc.jpg);
+     background-size: contain;
+    
+  
+    }
+
+    .burguer {
+    gap: 60px;
+    }
+
+
+
+    .cont2 {
+    width: 500px;
+   margin: 50px auto;
+    }
+}
+
+@media (min-width:992px) {
+
+    .cabecalho {
+    background-image: url(../img/lanches_mc.jpg);
+    background-size: contain;
+    }
+
+}
