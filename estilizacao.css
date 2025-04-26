@@ -109,7 +109,7 @@ margin: 50px auto;
 
 .cont3 img {
   display: flex;
-  justify-self: center;
+ justify-self: center;
   
 }
 
@@ -126,6 +126,7 @@ bottom: 150px;
 .cont3 {
 position: relative;
 bottom: 190px;
+
 
 
 
