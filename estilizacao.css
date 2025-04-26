@@ -14,7 +14,7 @@ body{
 
 .cabecalho {
 background-image: url(img/lanches_mc.jpg);
-background-size: contain;
+background-size: cover;
 padding: 100px;
 background-repeat: repeat-x;
 
@@ -110,7 +110,7 @@ margin: 50px auto;
 .cont3 img {
   display: flex;
   justify-self: center;
-  width: 400px;
+  
 }
 
 .cont3 h2 {
@@ -126,6 +126,7 @@ bottom: 150px;
 .cont3 {
 position: relative;
 bottom: 190px;
+
 
 
 }
@@ -275,8 +276,12 @@ bottom: 400px;
 .conteudopp {
 position: relative;
 bottom: 250px;
+margin: 0 auto;
+text-align: center;
 }
 
 .conteudopp img {
   border-radius: 10px;
+ margin: 0 auto;
+  
 }
